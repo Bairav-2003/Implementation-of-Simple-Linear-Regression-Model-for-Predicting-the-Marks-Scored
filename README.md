@@ -22,7 +22,7 @@ Program to implement the simple linear regression model for predicting the marks
 
 Developed by: Bairav Skandan Loha
 
-RegisterNumber: 212221220010
+RegisterNumber: 212221230010
 ```
 import pandas as pd
 import numpy as np
